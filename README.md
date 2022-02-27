@@ -1,4 +1,4 @@
-### Olá sou Cassinaldo Filho, desenvolvedor de software.
+### Olá sou Cassinaldo Filho, estudante de desenvolvimento.
 
   <a href="https://github.com/cassinaldo-filho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassinaldo-filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
