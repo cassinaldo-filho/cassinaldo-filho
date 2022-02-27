@@ -1,8 +1,10 @@
 ### Olá sou Cassinaldo Filho, desenvolvedor de software.
 
   <a href="https://github.com/cassinaldo-filho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassinaldo-filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassinaldo-filho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassinaldo-filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassinaldo-filho&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
     
 </div>
   
